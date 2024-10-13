@@ -53,6 +53,3 @@ This repository contains a project for real-time sign language detection using c
 
 Contributions are welcome! If you would like to contribute, please fork the repository and create a pull request. Make sure to update tests as appropriate.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
